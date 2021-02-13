@@ -34,7 +34,7 @@ void loop(){
 
   sendToOLED(batt3cellVolt*((1.5+1)/1));
 
-  OLEDMenu();
+  //OLEDMenu();
 }
 
 
